@@ -1,4 +1,1 @@
-Android
-=======
-
-Android common code
+Android 常用代码集合
